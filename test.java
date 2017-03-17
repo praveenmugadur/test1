@@ -15,6 +15,7 @@ System.out.println("from system");
 System.out.println("from system111");
 void kr()
 {
+	System.out.println("jsdf");
 }
 }
 }
